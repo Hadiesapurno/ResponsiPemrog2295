@@ -1,0 +1,14 @@
+c:\users\amikom\source\repos\ResponsiPemrog2295\ResponsiPemrog2295\bin\Debug\ResponsiPemrog2295.exe.config
+c:\users\amikom\source\repos\ResponsiPemrog2295\ResponsiPemrog2295\bin\Debug\ResponsiPemrog2295.exe
+c:\users\amikom\source\repos\ResponsiPemrog2295\ResponsiPemrog2295\bin\Debug\ResponsiPemrog2295.pdb
+c:\users\amikom\source\repos\ResponsiPemrog2295\ResponsiPemrog2295\obj\Debug\ResponsiPemrog2295.csprojAssemblyReference.cache
+c:\users\amikom\source\repos\ResponsiPemrog2295\ResponsiPemrog2295\obj\Debug\ResponsiPemrog2295.csproj.CoreCompileInputs.cache
+c:\users\amikom\source\repos\ResponsiPemrog2295\ResponsiPemrog2295\obj\Debug\ResponsiPemrog2295.exe
+c:\users\amikom\source\repos\ResponsiPemrog2295\ResponsiPemrog2295\obj\Debug\ResponsiPemrog2295.pdb
+C:\Users\Iqbal\Downloads\ResponsiPemrog2295-20190427T080619Z-001\ResponsiPemrog2295\ResponsiPemrog2295\bin\Debug\ResponsiPemrog2295.exe.config
+C:\Users\Iqbal\Downloads\ResponsiPemrog2295-20190427T080619Z-001\ResponsiPemrog2295\ResponsiPemrog2295\bin\Debug\ResponsiPemrog2295.exe
+C:\Users\Iqbal\Downloads\ResponsiPemrog2295-20190427T080619Z-001\ResponsiPemrog2295\ResponsiPemrog2295\bin\Debug\ResponsiPemrog2295.pdb
+C:\Users\Iqbal\Downloads\ResponsiPemrog2295-20190427T080619Z-001\ResponsiPemrog2295\ResponsiPemrog2295\obj\Debug\ResponsiPemrog2295.csprojAssemblyReference.cache
+C:\Users\Iqbal\Downloads\ResponsiPemrog2295-20190427T080619Z-001\ResponsiPemrog2295\ResponsiPemrog2295\obj\Debug\ResponsiPemrog2295.csproj.CoreCompileInputs.cache
+C:\Users\Iqbal\Downloads\ResponsiPemrog2295-20190427T080619Z-001\ResponsiPemrog2295\ResponsiPemrog2295\obj\Debug\ResponsiPemrog2295.exe
+C:\Users\Iqbal\Downloads\ResponsiPemrog2295-20190427T080619Z-001\ResponsiPemrog2295\ResponsiPemrog2295\obj\Debug\ResponsiPemrog2295.pdb
